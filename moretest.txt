@@ -1,3 +1,7 @@
 more content
+<<<<<<< HEAD
 changes
 more
+=======
+test
+>>>>>>> conflict
